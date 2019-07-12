@@ -1,0 +1,14 @@
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\bin\Debug\netcoreapp2.2\Sajin-Web.deps.json
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\bin\Debug\netcoreapp2.2\Sajin-Web.runtimeconfig.json
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\bin\Debug\netcoreapp2.2\Sajin-Web.runtimeconfig.dev.json
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\bin\Debug\netcoreapp2.2\Sajin-Web.dll
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\bin\Debug\netcoreapp2.2\Sajin-Web.pdb
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\obj\Debug\netcoreapp2.2\Sajin-Web.csprojAssemblyReference.cache
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\obj\Debug\netcoreapp2.2\Sajin-Web.csproj.CoreCompileInputs.cache
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\obj\Debug\netcoreapp2.2\Sajin-Web.RazorAssemblyInfo.cache
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\obj\Debug\netcoreapp2.2\Sajin-Web.RazorAssemblyInfo.cs
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\obj\Debug\netcoreapp2.2\Sajin-Web.AssemblyInfoInputs.cache
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\obj\Debug\netcoreapp2.2\Sajin-Web.AssemblyInfo.cs
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\obj\Debug\netcoreapp2.2\Sajin-Web.RazorTargetAssemblyInfo.cache
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\obj\Debug\netcoreapp2.2\Sajin-Web.dll
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\obj\Debug\netcoreapp2.2\Sajin-Web.pdb

@@ -1,0 +1,14 @@
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\obj\Debug\netcoreapp2.2\Schedule.csproj.CoreCompileInputs.cache
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\obj\Debug\netcoreapp2.2\Schedule.RazorAssemblyInfo.cache
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\obj\Debug\netcoreapp2.2\Schedule.RazorAssemblyInfo.cs
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\obj\Debug\netcoreapp2.2\Schedule.AssemblyInfoInputs.cache
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\obj\Debug\netcoreapp2.2\Schedule.AssemblyInfo.cs
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\bin\Debug\netcoreapp2.2\Schedule.deps.json
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\bin\Debug\netcoreapp2.2\Schedule.runtimeconfig.json
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\bin\Debug\netcoreapp2.2\Schedule.runtimeconfig.dev.json
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\bin\Debug\netcoreapp2.2\Schedule.dll
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\bin\Debug\netcoreapp2.2\Schedule.pdb
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\obj\Debug\netcoreapp2.2\Schedule.RazorTargetAssemblyInfo.cache
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\obj\Debug\netcoreapp2.2\Schedule.dll
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\obj\Debug\netcoreapp2.2\Schedule.pdb
+D:\NetCoreDemo-Nhi\Sajin-Web\Sajin-Web\obj\Debug\netcoreapp2.2\Schedule.csprojAssemblyReference.cache
